@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi 👋, I'm Devansh</h1>
+<h1 align="center">Hi 👋, I'm Nidhi</h1>
 <h3 align="center">A passionate Application developer from India</h3>
 
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Android Development**
 
-- 📫 How to reach me **devanshvashisht9@gmail.com**
+- 📫 How to reach me **nidhi1823ms1092@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
